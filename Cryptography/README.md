@@ -23,8 +23,8 @@ For example :
 	Ijg will be deciphered as below:
 	
 	'I' : 'I'-0='I'
-	'j'	: 'j'-7='c'
-	'g'	: 'g'-2='e'
+	'j' : 'j'-7='c'
+	'g' : 'g'-2='e'
 	
 
 After running the python file the flag appeared :"IceCTF{I_DONT_THINK_GRONSFELD_LIKED_MONDAYS}" 
