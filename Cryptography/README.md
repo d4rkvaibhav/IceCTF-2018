@@ -8,7 +8,7 @@ Write up:
 
 In this CRYPTO question we had been given 2 things in the picture garfeld.png
 
-fFrst the ciphered text : "IjgJUO{P_LOUV_AIRUS_GYQUTOLTD_SKRFB_TWNKCFT}"
+First the ciphered text : "IjgJUO{P_LOUV_AIRUS_GYQUTOLTD_SKRFB_TWNKCFT}"
 
 and a key on the top right of the photo
 
