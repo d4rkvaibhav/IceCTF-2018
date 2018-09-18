@@ -4,7 +4,9 @@ from pwn import *
 q="aXat9r45UtyMjw4i5Wh8swVWmEg3vAbW"
 flag=0
 while(flag==0):
-	t='printf '+ str(q)+'|ltrace /home/vaibhav/Downloads/./lock'
+	t='printf '+ str(q)+'
+	d='ltrace /home/vaibhav/Downloads/./lock' #your directory where lock is located
+	t=t+"|"+d
 	r= process(t, shell=True)
 	s=r.recvuntil("free")
 	s=s.split()
