@@ -1,3 +1,5 @@
+#tested in python2
+#to install pwn library : http://docs.pwntools.com/en/stable/install.html
 from pwn import *
 q="aXat9r45UtyMjw4i5Wh8swVWmEg3vAbW"
 flag=0
