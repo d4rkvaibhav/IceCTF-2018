@@ -45,6 +45,7 @@ So i made a python script that collects the integer and add to the string and th
 ![image](https://user-images.githubusercontent.com/43247883/45689070-9e37fa00-bb70-11e8-81a3-00d249c015cf.png)
 
 <br>
+<b>NOTE : YOU CAN FIND THIS PYTHON FILE IN THE SAME REPOSITORY WITH NAME "solution.py"</b><br>
 So the final String i got was "aXat9r45UtyMjw4i5Wh8swVWmEg3vAbWZaijTWP8"
 <br>
 I entered the String in password and entered the shell.Then opened the flag.txt and got the flag.
