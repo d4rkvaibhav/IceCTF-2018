@@ -2,7 +2,8 @@
 <b>DESCRIPTION<br>
 This is a fancy looking lock, I wonder what would happen if you broke it open?</b>
 <br>
-In this question we have to crack the password so first i checked the functions in the gdb.The functions were :<br>
+<br>
+In this question we have to crack the password so first i checked the functions in the gdb.The functions were :<br><br>
 0x00000590  strcmp@plt<br>
 0x000005a0  printf@plt<br>
 0x000005b0  strcspn@plt<br>
