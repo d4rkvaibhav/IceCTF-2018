@@ -6,7 +6,7 @@ flag=0
 while(flag==0):
 	t='printf '+ str(q)+'
 	d='ltrace /home/vaibhav/Downloads/./lock' #your directory where lock is located
-	t=t+"|"+d
+	t=t+"|"+d   #pipelining printf into ltrace
 	r= process(t, shell=True)
 	s=r.recvuntil("free")
 	s=s.split()
