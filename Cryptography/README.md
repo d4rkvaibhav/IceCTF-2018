@@ -28,3 +28,4 @@ For example :
 	
 
 After running the python file the flag appeared :"IceCTF{I_DONT_THINK_GRONSFELD_LIKED_MONDAYS}" 
+Contribution: Akhil J
